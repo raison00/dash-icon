@@ -13,6 +13,9 @@ I call this version "DeskDashDart" because this is modeled after the Dash plushi
 [browserconfig.xml](dash-dart.ico/browserconfig.xml)
 
 
+[favicon.ico](dash-dart.ico/favicon.ico)
+
+
 [favicon-16x16.png](dash-dart.ico/favicon-16x16.png)
 
 
@@ -22,7 +25,6 @@ I call this version "DeskDashDart" because this is modeled after the Dash plushi
 [favicon-96x96.png](dash-dart.ico/favicon-96x96.png)
 
 
-[favicon.ico](dash-dart.ico/favicon.ico)
 
 
 
