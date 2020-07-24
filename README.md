@@ -8,6 +8,8 @@ I call this version "DeskDashDart" because my Dash plushie lives at my desk. Som
 
 #
 
+[manifest.json](dash-dart.ico/manifest.json)
+
 [browserconfig.xml](dash-dart.ico/browserconfig.xml)
 
 
@@ -23,7 +25,6 @@ I call this version "DeskDashDart" because my Dash plushie lives at my desk. Som
 [favicon.ico](dash-dart.ico/favicon.ico)
 
 
-[manifest.json](dash-dart.ico/manifest.json)
 
 #
 [android-icon-144x144](dash-dart.ico/android-icon-144x144.png) 
