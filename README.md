@@ -1,7 +1,7 @@
 
 # Flutter Dart Dash Icons for Android, Apple, Windows
 
-This is version "DeskDashDart" because my Dash plushie lives at my desk. Some Dashes do not have blue beards.  DeskDashDart, as you can see, does.
+I call this version "DeskDashDart" because my Dash plushie lives at my desk. Some Dashes do not have blue beards.  DeskDashDart, as you can see, does.  Originally drawn for [Flutter Interact 2019](https://www.youtube.com/watch?v=EgBMGDtHZhE).
 
 
 ![apple-icon-152x152.png](dash-dart.ico/apple-icon-152x152.png)
