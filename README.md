@@ -7,6 +7,25 @@ I call this version "DeskDashDart" because my Dash plushie lives at my desk. Som
 ![apple-icon-152x152.png](dash-dart.ico/apple-icon-152x152.png)
 
 #
+
+[browserconfig.xml](dash-dart.ico/browserconfig.xml)
+
+
+[favicon-16x16.png](dash-dart.ico/favicon-16x16.png)
+
+
+[favicon-32x32.png](dash-dart.ico/favicon-32x32.png)
+
+
+[favicon-96x96.png](dash-dart.ico/favicon-96x96.png)
+
+
+[favicon.ico](dash-dart.ico/favicon.ico)
+
+
+[manifest.json](dash-dart.ico/manifest.json)
+
+#
 [android-icon-144x144](dash-dart.ico/android-icon-144x144.png) 
 
 
@@ -58,24 +77,6 @@ I call this version "DeskDashDart" because my Dash plushie lives at my desk. Som
 
 #
 
-[browserconfig.xml](dash-dart.ico/browserconfig.xml)
-
-
-[favicon-16x16.png](dash-dart.ico/favicon-16x16.png)
-
-
-[favicon-32x32.png](dash-dart.ico/favicon-32x32.png)
-
-
-[favicon-96x96.png](dash-dart.ico/favicon-96x96.png)
-
-
-[favicon.ico](dash-dart.ico/favicon.ico)
-
-
-[manifest.json](dash-dart.ico/manifest.json)
-
-#
 
 [ms-icon-144x144.png](dash-dart.ico/ms-icon-144x144.png)
 
